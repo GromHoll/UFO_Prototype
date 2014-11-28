@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/Repo/AndEngine/AndEngine.iml" filepath="G:/Repo/AndEngine/AndEngine.iml" />
+      <module fileurl="file://G:/Repo/AndEnginePhysicsBox2DExtension/AndEnginePhysicsBox2DExtension.iml" filepath="G:/Repo/AndEnginePhysicsBox2DExtension/AndEnginePhysicsBox2DExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UfoPrototype.iml" filepath="$PROJECT_DIR$/UfoPrototype.iml" />
+    </modules>
+  </component>
+</project>
+
